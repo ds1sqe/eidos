@@ -1,6 +1,7 @@
-#![warn(clippy::all, rust_2018_idioms)]
-
 mod lang;
+mod schema;
+mod workspace;
+
 mod ui;
 
 pub use ui::EidosApp;
