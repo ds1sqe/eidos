@@ -5,6 +5,9 @@ authors = ["ds1sqe <ds1sqe@mensakorea.org>"]
 edition = "2024"
 include = ["LICENSE", "**/*.rs", "Cargo.toml", "assets/**"]
 repository = "https://github.com/ds1sqe/eidos"
+license = "LICENSE"
+description = "A ideal environment for ETL"
+
 
 [package.metadata.docs.rs]
 all-features = true
