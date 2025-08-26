@@ -3,7 +3,7 @@ name = "eidos"
 version = "0.1.0"
 authors = ["ds1sqe <ds1sqe@mensakorea.org>"]
 edition = "2024"
-include = ["LICENSE", "**/*.rs", "Cargo.toml"]
+include = ["LICENSE", "**/*.rs", "Cargo.toml", "assets/**"]
 repository = "https://github.com/ds1sqe/eidos"
 
 [package.metadata.docs.rs]
